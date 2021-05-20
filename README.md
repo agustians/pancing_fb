@@ -14,3 +14,6 @@ Cara Pasang :
 7. select * from masuk;
 #
 Gunakan untuk pengetahuan dan bermain-main dengan mereka yang tidak tahu
+#
+Jangan salahkan kami jika ada penyimpangan dan kami tidak bertanggung jawab, resiko tanggung sendiri. 
+#
