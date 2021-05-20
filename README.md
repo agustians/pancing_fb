@@ -1,7 +1,7 @@
 # pancing_fb
 
 Alat sederhana untuk memancing facebook.
-Pancing facebook dengan ini jika mereka tidak mereka akan kecolongan.
+Pancing facebook dengan ini jika mereka tidak tahu mereka akan kecolongan.
 #
 Cara Pasang :
 #
